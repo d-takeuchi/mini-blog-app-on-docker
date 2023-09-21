@@ -17,5 +17,5 @@ docker-compose up -d --build
 ## 補足
 * ドキュメントルート
   * /var/www/mini-blog.localhost/web
-* 自作フレームワーク
+* 自作フレームワーク場所
   * applifcationディレクトリ  
