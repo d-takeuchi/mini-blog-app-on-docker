@@ -18,4 +18,4 @@ docker-compose up -d --build
 * ドキュメントルート
   * /var/www/mini-blog.localhost/web
 * 自作フレームワーク
-  * applifcationsディレクトリ  
+  * applifcationディレクトリ  
