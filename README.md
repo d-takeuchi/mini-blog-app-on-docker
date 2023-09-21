@@ -1,4 +1,6 @@
 # mini-blog-app-on-docker
+## 概要
+名著「パーフェクトPHP」のミニブログアプリケーションを、Docker上で動かすようにした
 
 ## 前準備
 * http://mini-blog.localhost でアクセスするので、hostsを書き換える必要あり
