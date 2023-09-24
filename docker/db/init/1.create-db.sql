@@ -1,6 +1,7 @@
-CREATE DATABASE `oneline_bbs` DEFAULT CHARACTER SET utf8;
+CREATE DATABASE `mini_blog` DEFAULT CHARACTER SET utf8;
 
-USE oneline_bbs;
+USE mini_blog;
+
 CREATE TABLE user(
     id INTEGER AUTO_INCREMENT,
     user_name VARCHAR(20) NOT NULL,
