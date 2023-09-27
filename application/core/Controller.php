@@ -49,10 +49,10 @@ abstract class Controller
 'layout')
     {
         $defaults = array(
-                    'request'  => $this->request,
-                    'base_url' => $this->request->getBaseUrl(),
-        'session'  => $this->session
-                );
+            'request'  => $this->request,
+            'base_url' => $this->request->getBaseUrl(),
+            'session'  => $this->session
+        );
         $view = new View($this->application->getViewDir(), $defaults);
         if (is_null($template)) {
             $template = $this->action_name;
